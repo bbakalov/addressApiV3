@@ -13,7 +13,7 @@ Apache  **2.4.7**
  ----------------------------------------------------------------------------------------------------------
 ##Important things to do:##
 * Create database and set configuration to **protected/app/Model/DbModel.php**
-* Create table in database from **db/shcema.sql**
+* Create table in database from **db/scheme.sql**
 
 ***Result:***
 * new table 'address' with one test raw, will be create in DB
